@@ -16,7 +16,7 @@
 ----------------
 
 ### ℹ️ DL_week2_logistic_regression_model
-- ####内容：logistic regression model,学习网站：[coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+- #### 内容：logistic regression model,学习网站：[coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 ```
 |—— datasets                       存放数据集       
 |—— images                         存放图像
@@ -29,7 +29,7 @@
 ----------------
 
 ###🔔 DL_week3_shallow_neural_network
-- ####内容：浅层的神经网络(一层输入层，一层隐藏层，一层输出层)
+- #### 内容：浅层的神经网络(一层输入层，一层隐藏层，一层输出层)
 ```    
 |—— images                         存放图像
 |—— planar_utils.py                加载数据函数
@@ -40,7 +40,7 @@
 ----------------
 
 ### 🌅 DL_week4_deep_neural_networks
-- ####内容：深度的神经网络（2层隐藏层，L层隐藏层）
+- #### 内容：深度的神经网络（2层隐藏层，L层隐藏层）
 
 ```
 |—— datasets                       存放数据集   
@@ -56,7 +56,7 @@
 
 ### ✳️ pandas
 
-- ####内容：pandas的学习，学习资料地址：[kaggle](https://www.kaggle.com/learn/pandas)
+- #### 内容：pandas的学习，学习资料地址：[kaggle](https://www.kaggle.com/learn/pandas)
 ```
 |—— data                            存放数据集  
 |—— pandas.ipynb                    pandas应用案例
